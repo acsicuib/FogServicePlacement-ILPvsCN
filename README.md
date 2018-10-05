@@ -1,5 +1,4 @@
-This program has been implemented for the research presented in the article "Multi-objective Optimization for Virtual Machine Allocation
-and Replica Placement in Virtualized Hadoop Architecture", submitted for consideration for publication in "IEEE IoT Journal".
+This program has been implemented for the research presented in the article "Availability-aware Service Placement Policy in Fog Computing Based on Graph Partitions", submitted for consideration for publication in "IEEE IoT Journal".
 
 
 These are the implementations of two service placement algorithms for fog computing in python 2.7. One is an ILP-based algorithm and the second one is based on the use of complex networks and graph partitions. For more details, please, read the article in XXXTBDXXXX
@@ -10,7 +9,6 @@ This program is released under the GPLv3 License.
 
 ```bash
 TBD
-}
 ```
 
 **Execution of the program**:
