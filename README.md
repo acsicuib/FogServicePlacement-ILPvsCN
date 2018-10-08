@@ -3,6 +3,9 @@ This program has been implemented for the research presented in the article "Ava
 
 These are the implementations of two service placement algorithms for fog computing in python 2.7. One is an ILP-based algorithm and the second one is based on the use of complex networks and graph partitions. For more details, please, read the article in XXXTBDXXXX
 
+This repository only contains the files that generates and solve the placement of the services into the fog devices. This is stored in JSON files. For the execution of the simulation, it is necessary to install the the YAFS simulator (https://github.com/acsicuib/YAFS) and this installation already includes an example with our allocation results including those JSON files in https://github.com/acsicuib/YAFS/tree/master/src/examples/PartitionILPPlacement. To execute the simulation it is necessary to execute in that folder the command "python main.py"
+
+
 This program is released under the GPLv3 License.
 
 **Please consider to cite this work as**:
