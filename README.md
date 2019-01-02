@@ -22,7 +22,8 @@ pages={1-1},
 keywords={Optimization;Cloud computing;Internet of Things;Edge computing;Computer architecture;Proposals;Resource management;Fog computing;Service placement;Service availability;Performance optimization;Complex network communities;Graph transitive closures.}, 
 doi={10.1109/JIOT.2018.2889511}, 
 ISSN={2327-4662}, 
-month={},}
+month={},
+}
 ```
 
 **Execution of the program**:
